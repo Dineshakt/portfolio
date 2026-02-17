@@ -4,7 +4,7 @@
     --bg-alt: #f4f7f9; /* Softer, highly professional light gray-blue */
     --text-primary: #1e293b;
     --text-secondary: #475569;
-    --accent-color: #2563eb; 
+    --accent-color: #252ceb; 
     --accent-secondary: #0ea5e9;
     --accent-gradient: linear-gradient(135deg, var(--accent-color), var(--accent-secondary));
     --accent-light: #e0f2fe;
